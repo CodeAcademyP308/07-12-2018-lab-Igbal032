@@ -1,0 +1,7 @@
+c:\users\rufatfq\source\repos\Loginsystem\Loginsystem\obj\Debug\Loginsystem.csprojResolveAssemblyReference.cache
+c:\users\rufatfq\source\repos\Loginsystem\Loginsystem\obj\Debug\Loginsystem.csproj.CoreCompileInputs.cache
+c:\users\rufatfq\source\repos\Loginsystem\Loginsystem\bin\Debug\Loginsystem.exe.config
+c:\users\rufatfq\source\repos\Loginsystem\Loginsystem\bin\Debug\Loginsystem.exe
+c:\users\rufatfq\source\repos\Loginsystem\Loginsystem\bin\Debug\Loginsystem.pdb
+c:\users\rufatfq\source\repos\Loginsystem\Loginsystem\obj\Debug\Loginsystem.exe
+c:\users\rufatfq\source\repos\Loginsystem\Loginsystem\obj\Debug\Loginsystem.pdb
